@@ -1,0 +1,27 @@
+body {
+    background-color: #bcadaf;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+nav {
+    background-color: #825b61;
+    border-top: 5px;
+}
+
+#title {
+    margin-top: 7px;
+    margin-left: 150px;
+}
+
+#title2 {
+    margin-top: -40px;
+    margin-left: 185px;
+    font-family: 'Manrope';
+    color: #22333b;
+}
+
+.links {
+    text-decoration: none;
+}
